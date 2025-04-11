@@ -1,0 +1,14 @@
+
+
+Abstract: We are testing if Jegadeesh and Titman is still accurate. 
+
+Levers: % of stocks included in our ranges, Time horizon, Rebalancing TImeframes, Trading Costs
+
+Essentially, we will go long the top x% of stocks, short bottom x% of stocks, and determine portfolio volatility. 
+
+Paper Abstract:
+Claims of the paper: Predictable price changes during 3-12 months holding periods are not permanent. 
+Past winners realize constantly higher returns around their earnings announcements in 7 months following portfolio formation date than do 
+past losers. 
+
+Section I:
